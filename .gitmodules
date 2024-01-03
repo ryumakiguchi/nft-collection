@@ -1,0 +1,3 @@
+[submodule "collections-react"]
+	path = collections-react
+	url = https://github.com/ryumakiguchi/nft-collection.git
